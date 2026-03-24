@@ -49,19 +49,12 @@
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/usernamekamu">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/usernamekamu">
+<a href="https://instagram.com/nblkhanisa">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="https://portfoliokamu.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+<a href="mailto:nabilakhairunniabatam2004@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 ---
 
